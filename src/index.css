@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+.page {
+    margin: 32px;
+    padding: 16px;
+    background-color: white;
+    border-radius: 8px;
+}
